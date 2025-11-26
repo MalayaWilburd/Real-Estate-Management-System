@@ -28,7 +28,3 @@ A MySQL database system designed to manage rental properties, tenants, leases, r
 - Designing scalable and maintainable data models
 - Writing efficient and readable SQL queries
 - Mapping real-world business logic into relational structures
-
-## 🚀 How to Use
-
-1. Clone this repo:
